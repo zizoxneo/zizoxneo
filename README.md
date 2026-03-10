@@ -15,7 +15,7 @@
 - Competitive intelligence
 
 ## Projects
-Coming soon 🚀
+Check out my pinned repositories below!
 
 ## Connect with me
 LinkedIn: https://linkedin.com/in/azzeddine-betar-analyst
