@@ -48,7 +48,7 @@
 - Git
 - GitHub
 - VS Code
-- ChatGPT
+- AI bots
 - AI Productivity Tools
 
 ---
